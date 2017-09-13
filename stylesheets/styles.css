@@ -123,7 +123,7 @@ header ul {
 
 header li {
   width:89px;
-  float:left;
+  float:below;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
@@ -257,7 +257,7 @@ footer {
     width:99%;
   }
 
-  header li, header ul li + li + li {
+  header li, header ul li + li + li + li {
     width:33%;
   }
 }
