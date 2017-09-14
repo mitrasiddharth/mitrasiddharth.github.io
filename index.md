@@ -2,8 +2,7 @@
 layout: default
 ---
 
-=======
- 
+
 -------
 
 # Background
