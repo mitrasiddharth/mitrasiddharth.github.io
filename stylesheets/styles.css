@@ -118,7 +118,7 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:240px;
+  width:300px;
 }
 
 header li {
@@ -188,7 +188,7 @@ hr {
 }
 
 footer {
-  width:240px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
@@ -257,7 +257,7 @@ footer {
     width:99%;
   }
 
-  header li, header ul li + li + li + li {
+  header li, header ul li + li + li + li + li {
     width:33%;
   }
 }
