@@ -5,7 +5,7 @@ layout: default
 About
 -------
 
-Since Fall 2013, I've been a Ph.D. student in the Statistics Department at the University of Washington. My advisor is [Peter Hoff](https://pdhoff.github.io), and I expect to graduate in June, 2018.
+I am a Ph.D. student in the Statistics Department at the University of Washington. My advisor is [Peter Hoff](https://pdhoff.github.io), and I expect to graduate in June, 2018.
 
 ## Research
 
