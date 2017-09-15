@@ -15,4 +15,4 @@ I'm interested in multivariate data and data with little/no replication. I like 
 
 ## Interests
 
-I enjoy running and swimming, spending time with my beagle and eating food.
+Trying to keep my beagle from eating non-food items,  finding new pizzas to try and running or swimming (whichever I haven't recently injured myself doing).
