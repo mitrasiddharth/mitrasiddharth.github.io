@@ -13,7 +13,7 @@ I'm interested in multivariate data and data with little/no replication. I like 
 
 ## Background
 
-I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle, and now live in Durham, North Carolina. 
+I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle and now live in Durham, North Carolina. 
 
 ## Interests
 
