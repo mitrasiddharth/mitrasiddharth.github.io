@@ -2,12 +2,8 @@
 layout: default
 ---
 
-About
+Research
 -------
-
-I'm a postdoctoral associate in the Center for Applied Mathematics at the Cornell University. 
-
-## Research
 
 I'm interested in multivariate data and data with little/no replication. I like thinking in terms of models, but because I'm always worried that models are wrong I'm also interested in model misspecification. 
 
