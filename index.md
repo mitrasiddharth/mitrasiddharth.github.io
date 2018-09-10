@@ -7,6 +7,11 @@ Research
 
 I'm interested in multivariate data and data with little/no replication. I like thinking in terms of models, but because I'm always worried that models are wrong I'm also interested in model misspecification. 
 
+## News
+* 09/10/18: A little R package I made exceeded 1,000 downloads! [![](https://cranlogs.r-pkg.org/badges/gnorm)](https://cran.rstudio.com/web/packages/gnorm/index.html)
+* 08/10/18: I started a postdoc at the [Cornell Center for Applied Mathematics](http://www.cam.cornell.edu/cam/people/postdocs-visitors.cfm)!
+
+
 ## About Me
 
 I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle and the last two in Durham, North Carolina. I received my Ph.D. in Statistics from the University of Washington in 2018 under the supervision of [Peter Hoff](https://pdhoff.github.io).
