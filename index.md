@@ -1,5 +1,9 @@
 ---
 layout: default
+output: 
+  html_document:
+    includes:
+       in_header: ga.html
 ---
 
 Research
