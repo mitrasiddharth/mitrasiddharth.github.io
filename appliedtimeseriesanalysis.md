@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: atsa
 ---
 
 Applied Time Series Analysis
