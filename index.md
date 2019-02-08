@@ -11,14 +11,14 @@ I'm interested in multivariate data and data with little/no replication. I like 
 
 ## News
 * 02/08/19: ["Lasso ANOVA Decompositions for Matrix and Tensor Data"](https://arxiv.org/pdf/1703.08620.pdf), formerly known as ["LANOVA Penalization for Unreplicated Data"](https://arxiv.org/pdf/1703.08620.pdf),  has been accepted for publication at Computational Statistics and Data Analysis!
+* 1/26/19: I have accepted a job as an assistant professor at the University of Massachusetts Amherst, starting September 2019!
 * 1/22/19: I'm teaching [Applied Time Series Analysis](https://maryclare.github.io/atsa) at Cornell this semester.
 * 10/18/18: I presented ["Testing Sparsity-Inducing Penalties"](https://arxiv.org/pdf/1712.06230.pdf) at the University of Rochester!
-* 09/11/18: I put an updated draft of ["Testing Sparsity-Inducing Penalties"](https://arxiv.org/pdf/1712.06230.pdf) online!
 
 
 ## About Me
 
-I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle and the last two in Durham, North Carolina. I received my Ph.D. in Statistics from the University of Washington in 2018 under the supervision of [Peter Hoff](https://pdhoff.github.io).
+I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle and the last two in Durham, North Carolina. I received my Ph.D. in Statistics from the University of Washington in 2018 under the supervision of [Peter Hoff](https://pdhoff.github.io). Right now, I'm a postdoctoral associate in the [Center for Applied Mathematics at Cornell](https://www.cam.cornell.edu/cam), where I am learning all about time series from [David Matteson](https://davidsmatteson.com) and [Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). In September 2019, I will join the Department of Mathematics and Statistics at the University of Massachusetts Amherst as an assistant professor!
 
 ## Interests
 
