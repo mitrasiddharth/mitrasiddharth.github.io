@@ -5,15 +5,18 @@
 Getting Started with Github and RStudio
 -------
   
-This material was created for a guest lecture.
+This material was created for a guest lecture, and I figured it could be useful to others so here it is!
 
 # WHY?
 
 Before we start - why do this?! Writing up your code in `R` packages hosted on Github can make:
 
-* Collaboration easier;
-* Using cloud-based computing more efficient and less prone to errors;
-* It easier to provide reproducable code alongside journal submissions.
+* Collaboration easier 
+    * Multiple people can edit the same files without overwriting each other's work without realizing it, and your collaborators can easily run your code without you having to send them all the files every time they want to use it
+* Using cloud-based computing more efficient and less prone to errors 
+    * No moving your code from one computer to another if you prototype code on one computer and run it elsewhere
+* The submission process less painful 
+    * The more work you do now, the less work you have to do later
 
 # Our Main Resources and Basic Steps
 
