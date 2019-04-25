@@ -28,6 +28,7 @@ Jenny Bryan's ["Happy Git and GitHub for the useR"](https://happygitwithr.com) i
     - Jenny's instructions are for one way of doing this, which starts with a Github repository. Alternatively, you could start with an `R` project or package on your computer. If you want to start with a package, you can follow the steps below:
         - Within RStudio, click *File->New Project->New Directory->R Package*
         - Give the package a name, add any `.R` files that contain functions you will want in the package, pick where you want your package to live, and check "Create a git repository"
+            - You don't actually have to check "Create a git repository." If you *do not* check it, then you need to take an additional step of clicking *Tools->Version Control->Project Setup* and selecting Git as your version control software.
             - This creates a bunch of auxiliary files you'll want to have around, for instance DESCRIPTION and NAMESPACE files
         - Go to https://github.com, and make sure that you're logged in. Create a new repository with the same name as your package/project. It's up to you whether or not you want to initialize the package with a README, I usually do not and then add one manually.
         - GitHub will provide you with some instructions. Make a note of the instructions to "...push an existing repository from the command line." We'll use them shortly.
