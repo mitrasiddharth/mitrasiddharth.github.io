@@ -4,23 +4,27 @@ output:
   html_document:
 ---
 
-Research
--------
 
-I'm interested in multivariate data and data with little/no replication. I like thinking in terms of models, but because I'm always worried that models are wrong I'm also interested in model misspecification. 
+I am a second year MSc Computer Science (2018-2020) student at the [Chennai Mathematical Institute](https://www.cmi.ac.in) (CMI). Previously, I completed my BSc in Mathematics and Computer Science (2015-2018), also from CMI. I have spent the 2018-19 academic year at the [Indian Institute of Science](https://www.iisc.ac.in) (IISc), Bangalore, where I have been working with Professors [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html) and [Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/).
 
+Broadly speaking, I am interested in optimization and the theoretical aspects of machine learning. Off late, I have been working mostly on online learning and online convex optimization. More specifically, I have been pondering over adaptive algorithms for online learning which can operate in information starved settings.  
+ 
+ 
 ## News
-* 02/15/19: ["Structured Shrinkage Priors"](https://arxiv.org/pdf/1902.05106.pdf), the last chapter of my thesis, is now online!
-* 02/08/19: ["Lasso ANOVA Decompositions for Matrix and Tensor Data"](https://arxiv.org/pdf/1703.08620.pdf), formerly known as "LANOVA Penalization for Unreplicated Data",  has been accepted for publication at Computational Statistics and Data Analysis!
-* 1/26/19: I have accepted a job as an assistant professor at the University of Massachusetts Amherst, starting September 2019!
-* 1/22/19: I'm teaching [Applied Time Series Analysis](https://maryclare.github.io/atsa) at Cornell this semester.
+
+* July 2019: I will be attending the [IFCAM summer school](http://math.iisc.ac.in/~ifcam/Summer_School2019.htm) on Mathematics for Data Science
+* January 2019: I will be attending the [Workshop on Learning Theory](http://workshop.tcs.tifr.res.in), co-organised by TIFR and MIT 
+
 
 ## About Me
 
-I grew up in Massachusetts, went to college at the University of Chicago, spent the first three years of graduate school in Seattle and the last two in Durham, North Carolina. I received my Ph.D. in Statistics from the University of Washington in 2018 under the supervision of [Peter Hoff](https://pdhoff.github.io). Right now, I'm a postdoctoral associate in the Center for Applied Mathematics at Cornell, where I am learning all about time series from [David Matteson](https://davidsmatteson.com) and [Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). In September 2019, I will join the Department of Mathematics and Statistics at the University of Massachusetts Amherst as an assistant professor!
+I was born in New Delhi, India and have been raised in many differenct cities across the world. We left for the US when I was 6 years old and spent time in Fairfax, VA and Naperville, IL before returning back to India when I was in grade 5. I had shifted 8 different schools by the time I started middle school! Thankfully, we settled down thereafter and were based out of Gurgaon, India for the remainder of my school years. Now, as my 5 years at CMI come to an end, I look forward to joining a PhD program starting Fall 2020.
 
-## Interests
 
-Trying to keep my beagle from eating non-food items, chasing my barking hound, finding new pizzas to eat, and hanging out with my mom [Claire](http://www.griffinink.com), dad [John](http://www.crai.com/expert/john-j-griffin), and sister [Norah](https://www.linkedin.com/in/norah-griffin-8451a4146).
+## Other Interests
 
+* Photography: I have been...
+* Music
+* Running
+* Sourdough Bread
 
