@@ -21,7 +21,7 @@ Broadly speaking, I am interested in optimization and the theoretical aspects of
 
 ## About Me++
 
-I was born in New Delhi, India and have been raised in many differenct cities across the world. We left for the US when I was 6 years old and spent time in Fairfax, VA and Naperville, IL before returning back to India when I was in grade 5. I had shifted 8 different schools by the time I started middle school! Thankfully, we settled down thereafter and were based out of Gurgaon, India for the remainder of my school years. Now, as my 5 years at CMI come to an end, I look forward to joining a PhD program starting Fall 2020.
+I was born in New Delhi, India and have been raised in many different cities across the world. We left for the US when I was 6 years old and spent time in Fairfax, VA and Naperville, IL before returning back to India when I was in grade 5. I had shifted 8 different schools by the time I started middle school! Thankfully, we settled down thereafter and were based out of Gurgaon, India for the remainder of my school years. Now, as my stint at CMI comes to an end, I look forward to joining a PhD program starting Fall 2020.
 
 
 ## Nonacademic Interests
