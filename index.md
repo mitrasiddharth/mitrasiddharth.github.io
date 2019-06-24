@@ -4,7 +4,7 @@ output:
   html_document:
 ---
 
-## Introduction
+## About Me
 
 I am a second year MSc Computer Science (2018-2020) student at the [Chennai Mathematical Institute](https://www.cmi.ac.in) (CMI) where I am advised by Professor [KV Subrahmanyam](https://www.cmi.ac.in/~kv/). Previously, I completed my BSc in Mathematics and Computer Science (2015-2018) also from CMI. I have spent the 2018-19 academic year at the [Indian Institute of Science](https://www.iisc.ac.in) (IISc), Bangalore, where I have been working with Professors [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/index.html) and [Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/).
 
@@ -19,7 +19,7 @@ Broadly speaking, I am interested in optimization and the theoretical aspects of
 ## Preprints
 * ...
 
-## A Little More About Me
+## About Me++
 
 I was born in New Delhi, India and have been raised in many differenct cities across the world. We left for the US when I was 6 years old and spent time in Fairfax, VA and Naperville, IL before returning back to India when I was in grade 5. I had shifted 8 different schools by the time I started middle school! Thankfully, we settled down thereafter and were based out of Gurgaon, India for the remainder of my school years. Now, as my 5 years at CMI come to an end, I look forward to joining a PhD program starting Fall 2020.
 
