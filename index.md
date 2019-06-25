@@ -12,8 +12,8 @@ Broadly speaking, I am interested in optimization and the theoretical aspects of
  
 ## News and Updates
 
-* July 2019: I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
-* January 2019: I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
+* <em>July 2019</em>: I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
+* <em>January 2019</em>: I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## Preprints
 * ...
@@ -25,9 +25,9 @@ I was born in New Delhi, India and have been raised in many different cities acr
 
 ## Nonacademic Interests
 
-* Photography: I've enjoyed photography for many years now and I try to get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a friendlier, more casual selection.
-* Music: I've been a fan of trance and deep house for many years now. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 and Above & Beyond.
-* Running: I've been a distance runner for a couple of years now. It's mostly been casual running thus far, but I do have a few upcoming events I'm training towards.
-* Sourdough Bread: No explanation required.
-* Coffee: On my 8th espresso shot of the day!
+* <em>Photography</em>: I've enjoyed photography for many years now and I try to get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a friendlier, more casual selection.
+* <em>Music</em>: I've been a fan of trance and deep house for many years now. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 and Above & Beyond. I also play the piano.
+* <em>Running</em>: I've been a distance runner for a couple of years now. It's mostly been casual running thus far, but I do have a few upcoming events I'm training towards.
+* <em>Sourdough Bread</em>: No explanation required.
+* <em>Coffee</em>: On my 8th espresso shot of the day!
 
