@@ -6,7 +6,7 @@ output:
 
 ## About Me
 
-I am a second year MSc Computer Science (2018-2020) student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI) where I am advised by Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. Previously, I completed my BSc in Mathematics and Computer Science (2015-2018) also from CMI. I have spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I have been working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>.
+I am a second year Master of Science in Computer Science (2018-2020) student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI) where I am advised by Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. Previously, I completed my Bachelor of Science (Hons.) in Mathematics and Computer Science (2015-2018) also from CMI. I have spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I have been working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>.
 
 Broadly speaking, I am interested in optimization and the theoretical aspects of machine learning. Off late, I have been working mostly on online learning and online convex optimization. More specifically, I have been pondering over adaptive algorithms for online learning which can operate in information starved settings.  
  
@@ -25,8 +25,9 @@ I was born in New Delhi, India and have been raised in many different cities acr
 
 ## Nonacademic Interests
 
-* Photography: I have been...
-* Music: ...
-* Running: ...
-* Sourdough Bread: ...
+* Photography: I've enjoyed photography for many years now and I try to get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a friendlier, more casual selection.
+* Music: I've been a fan of trance and deep house for many years now. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 and Above & Beyond.
+* Running: I've been a distance runner for a couple of years now. It's mostly been casual running thus far, but I do have a few upcoming events I'm training towards.
+* Sourdough Bread: No explanation required.
+* Coffee: On my 8th espresso shot of the day!
 
