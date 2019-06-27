@@ -4,6 +4,9 @@ output:
   html_document:
 ---
 
+<p> <img src="https://mitrodov.github.io/content/profile_circ2.png" width="100%" height="100%"> </p>
+
+
 ## About Me
 
 I am a second year Master of Science in Computer Science (2018-2020) student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI) where I am advised by Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. Previously, I completed my Bachelor of Science (Hons.) in Mathematics and Computer Science (2015-2018) also from CMI. I have spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I have been working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>.
