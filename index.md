@@ -4,7 +4,7 @@ output:
   html_document:
 ---
 
-<p> <img src="https://mitrodov.github.io/content/profile_circ2.png" width="100%" height="100%"> </p>
+<p> <img src="https://mitrodov.github.io/content/profile.jpg" width="100%" height="100%"> </p>
 
 
 ## About Me
