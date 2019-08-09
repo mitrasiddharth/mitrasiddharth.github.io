@@ -22,7 +22,7 @@ I am currently in my second year of a master's in computer science program at th
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## preprints
-* brb
+Expect this space to populate around the August end/early Sept. timeframe! Exciting stuff coming soon!
 
 
 
