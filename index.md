@@ -30,6 +30,6 @@ Expect this space to populate around the August end/early Sept. timeframe! Excit
 ## nonacademic interests
 
 * <em>photography:</em> I enjoy photography and get behind the lens as frequently as I can. Check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
-* <em>trance + deep house:</em> It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin and Ana ~7 years ago. These days, I'm absolutely in awe of Lane 8 (+ the entire TNH label) and Above & Beyond (+ the anjunabeats/anjunadeep family). I also play the piano.
+* <em>trance + deep house:</em> It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin and Ana ~7 years ago. These days, I'm absolutely in awe of Lane 8 (+ the entire TNH label) and Above & Beyond (+ the anjunabeats/anjunadeep family). On a somewhat related note, I also play the piano.
 * <em>sourdough bread</em>
 
