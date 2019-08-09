@@ -9,17 +9,40 @@ output:
 
 ## about me
 
+I am a student of mathematics and computer science interested in optimization and the theory of machine learning. I am rather fascinated by sequential decision making and enjoy thinking about online prediction and online optimization. I am currently in my second year of a Master's in Computer Science course at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI), prior to which I was an undergrad also at CMI. I spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I was working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I interact mostly with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
+
+
+/*
+currently at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). My broad interests are in optimization and the theory underpinning machine learning. I am rather fascinated by sequential deicision making and enjoy thinking about online prediction and online optimization.  
+
+
+
+
+
+
+I am fascinated by sequential decision making under uncertainty
+
+
+My interests are in optimization and the theoretical aspects of machine learning. More specifically, I am fascinated by online learning 
+
+
+Off late, I have been working mostly on online learning and online convex optimization. More specifically, I have been pondering over adaptive algorithms for online learning which can operate in information starved settings.  
+
+and my interests are in optimization and the theoretical aspects of machine learning. Off late, 
+
+
 I am a second year Master of Science in Computer Science (2018-2020) student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI) where I am advised by Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. Previously, I completed my Bachelor of Science (Hons.) in Mathematics and Computer Science (2015-2018) also from CMI. I have spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I have been working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>.
 
 Broadly speaking, I am interested in optimization and the theoretical aspects of machine learning. Off late, I have been working mostly on online learning and online convex optimization. More specifically, I have been pondering over adaptive algorithms for online learning which can operate in information starved settings.  
- 
+*/
+
 ## news & updates
 
 * <em>july 2019</em>: I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
 * <em>january 2019</em>: I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## preprints
-* ...
+* brb
 
 ## about me++
 
