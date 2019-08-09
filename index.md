@@ -16,8 +16,8 @@ I am a student of mathematics and computer science interested in optimization an
 
 ## news & updates
 
-* <em>july 2019</em>: I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
-* <em>january 2019</em>: I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
+* <em>july 2019:</em> I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
+* <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## preprints
 * brb
@@ -27,7 +27,7 @@ I am a student of mathematics and computer science interested in optimization an
 
 ## nonacademic interests
 
-* <em>photography</em>: I enjoy photography and get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
-* <em>music</em>: I am a fan of trance and deep house. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 (and the entire TNH label) and Above & Beyond (and again, the anjunabeats/anjunadeep label). I also play the piano.
+* <em>photography:</em> I enjoy photography and get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
+* <em>music:</em> I am a fan of trance and deep house. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 (and the entire TNH label) and Above & Beyond (and again, the anjunabeats/anjunadeep label). I also play the piano.
 * <em>sourdough bread</em>
 
