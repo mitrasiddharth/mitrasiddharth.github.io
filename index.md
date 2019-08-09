@@ -29,7 +29,7 @@ I am currently in my second year of a master's in computer science program at th
 
 ## nonacademic interests
 
-* <em>photography:</em> I enjoy photography and get behind the lens as frequently as I can. Please check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
-* <em>music:</em> I am a fan of trance and deep house. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin van Buuren and Ana Criado. These days, I'm absolutely in awe of Lane 8 (and the entire TNH label) and Above & Beyond (and again, the anjunabeats/anjunadeep label). I also play the piano.
+* <em>photography:</em> I enjoy photography and get behind the lens as frequently as I can. Check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
+* <em>music:</em> I am a fan of trance and deep house. It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> ~7 years ago. These days, I'm absolutely in awe of Lane 8 (and the entire TNH label) and Above & Beyond (including again, the entire anjunabeats/anjunadeep label). I also play the piano.
 * <em>sourdough bread</em>
 
