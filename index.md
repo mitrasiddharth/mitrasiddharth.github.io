@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I am a student of mathematics and computer science interested in optimization and the theoretical underpinnings of machine learning. I am especially fascinated by sequential decision making and enjoy thinking about online prediction and online optimization. 
+I am a student of mathematics and computer science interested in optimization and the theoretical underpinnings of machine learning. I am particularly fascinated by sequential decision making and enjoy thinking about online prediction and online optimization, especially within the perspective of non-euclidean optimization.
 
 I am currently in my second year of a master's in computer science (2018-2020) program at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI), prior to which I was an undergrad also at CMI (2015-2018). I spent the 2018-19 academic year at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I was working with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I interact mostly with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
