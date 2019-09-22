@@ -25,14 +25,14 @@ Currently, I'm in my 2nd year of a Master's in CS (2018-2020) degree at the <a h
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## papers
-Expect this space to populate around August end/early September! Exciting stuff coming soon!
+Expect this space to populate around September/October! Exciting stuff coming soon!
 
 
 
 
 ##  also fond of
 
-* <em>photography:</em> I enjoy photography and get behind the lens as frequently as I can. Check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> for a curated exhibit of my photographs and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a> for a more casual selection.
-* <em>trance + deep house:</em> It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin and Ana ~7 years ago. These days, I'm absolutely in awe of Lane 8 (+ the entire TNH label) and Above & Beyond (+ the anjunabeats/anjunadeep family). On a somewhat related note, I also play the piano.
+* <em>photography:</em> Check out <a href="https://500px.com/sid_mit" target="_blank">500px</a> and <a href="https://www.instagram.com/sid_mit/" target="_blank">instagram</a>.
+* <em>trance + deep house:</em> It all started when I stumbled upon <a href="https://www.youtube.com/watch?v=Aqx25hfTZeg" target="_blank">suddenly summer</a> by Armin and Ana ~7 years ago. I'd also made <a href="https://soundcloud.com/siddharthmitra/waiting-vs-sun-and-moon-mashup" target="_blank">this</a> a long time ago. These days, I'm absolutely in awe of Lane 8 (+ the entire TNH label) and Above & Beyond (+ the anjunabeats/anjunadeep family). On a somewhat related note, I also play the piano.
 * <em>sourdough bread</em>
 
