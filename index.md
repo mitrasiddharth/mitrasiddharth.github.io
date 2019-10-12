@@ -25,7 +25,7 @@ Currently, I'm in my 2nd year of a Master's in CS (2018-2020) degree at the <a h
 * <em>july 2019:</em> I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
-## preprints & papers
+## papers
 Expect this space to populate around September/October! Exciting stuff coming soon!
 
 
