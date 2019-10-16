@@ -21,7 +21,7 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a h
 
 ## news & updates
 
-* <em>october 2019:</em> "On Adaptivity in Information-constrained Online Learning" has been accepted to <a href="https://opt-ml.org/" target="_blank">OPT-ML</a>!
+* <em>october 2019:</em> "On Adaptivity in Information-constrained Online Learning" has been accepted to <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>!
 * <em>september 2019:</em> I will be giving a <a href="https://www.cmi.ac.in/activities/show-abstract.php?absyear=2019&absref=110&abstype=sem" target="_blank">talk</a> at CMI.
 * <em>july 2019:</em> I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
