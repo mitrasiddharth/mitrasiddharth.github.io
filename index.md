@@ -27,7 +27,9 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a h
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## papers
-Expect this space to populate around September/October! Exciting stuff coming soon!
+ <b>On Adaptivity in Information-constrained Online Learning</b>
+ Siddharth Mitra and Aditya Gopalan
+ Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>.
 
 
 
