@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I am a student of mathematics and computer science interested in optimization and the theoretical underpinnings of machine learning. I am particularly fascinated by sequential decision making and enjoy thinking about online prediction and online optimization, especially within the context of non-euclidean optimization. I also have a soft spot for physics-- I think it's an all-round really fun subject and also provides tons of intuition.
+I am a student of mathematics and computer science interested in optimization and the theoretical underpinnings of machine learning. I am particularly fascinated by sequential decision making and enjoy thinking about online prediction and online optimization. I also have a soft spot for physics -- I think it's an all-round really fun subject and also provides tons of intuition.
 
 Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
@@ -23,7 +23,7 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a h
 
 * <em>september 2019:</em> I will be giving a <a href="https://www.cmi.ac.in/activities/show-abstract.php?absyear=2019&absref=110&abstype=sem" target="_blank">talk</a> at CMI.
 * <em>july 2019:</em> I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
-* <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
+* <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in/learningt/workshop-learning-theory" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## papers
  <b>On Adaptivity in Information-constrained Online Learning</b><br>
