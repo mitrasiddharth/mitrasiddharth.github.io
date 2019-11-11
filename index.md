@@ -31,7 +31,8 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a h
  Siddharth Mitra and Aditya Gopalan<br>
  <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>.
  
-
+<b>Exploiting Gaps in Online Learning</b><br>
+Siddharth Mitra and Aditya Gopalan
 
 ##  also fond of
 
