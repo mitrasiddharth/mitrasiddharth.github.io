@@ -27,12 +27,14 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at <a href=
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in/learningt/workshop-learning-theory" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
 
 ## papers
+
+<b>Exploiting Gaps in Online Learning</b><br>
+Siddharth Mitra and Aditya Gopalan
+
  <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
  <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>.
  
-<b>Exploiting Gaps in Online Learning</b><br>
-Siddharth Mitra and Aditya Gopalan
 
 ##  also fond of
 
