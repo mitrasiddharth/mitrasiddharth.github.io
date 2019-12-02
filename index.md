@@ -30,7 +30,7 @@ Currently, I'm in my 2nd year of a Master's degree in CS (2018-2020) at the <a h
 
 <b>Exploiting Gaps in Online Learning</b><br>
 Siddharth Mitra and Aditya Gopalan<br>
-Work in Progress. A short <a href="https://drive.google.com/file/d/19wBuWi9QngLmnpYZhSlKwn1jwpcZ04fV/view?usp=sharing" target="_blank">note</a> on exploiting gaps in multi-armed bandits.
+Work in progress. A short <a href="https://drive.google.com/file/d/19wBuWi9QngLmnpYZhSlKwn1jwpcZ04fV/view?usp=sharing" target="_blank">note</a> on exploiting gaps in multi-armed bandits.
 
  <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
