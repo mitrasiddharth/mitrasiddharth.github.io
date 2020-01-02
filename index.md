@@ -32,7 +32,7 @@ I'm currently in my 2nd year of a Master's degree in CS (2018-2020) at the <a hr
 Siddharth Mitra and Aditya Gopalan<br>
 Work in progress. A short <a href="https://drive.google.com/file/d/19wBuWi9QngLmnpYZhSlKwn1jwpcZ04fV/view?usp=sharing" target="_blank">note</a> on exploiting gaps in multi-armed bandits.
 
- <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
+ <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a> <a href="https://drive.google.com/file/d/1gFa_DaXDdSvde43lmNGSSWdYLbL6VcLW/view?usp=sharing">[OPT Poster]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
  <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>.
  
