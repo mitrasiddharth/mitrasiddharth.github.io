@@ -11,7 +11,7 @@ output:
 
 I am a student of mathematics and computer science interested in optimization and the theoretical underpinnings of machine learning. I am particularly fascinated by sequential decision making and enjoy thinking about online prediction and online optimization. I also have a soft spot for physics -- I think it's an all-round really fun subject and also provides tons of intuition.
 
-I'm currently in my 2nd year of a Master's degree in CS (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. My CV can be found <a href="https://drive.google.com/file/d/1GQzTl4J9njOl6Vm3wg5x4zBSvlZbX6Zd/view?usp=sharing">here</a>.
+I'm currently in my 2nd year of a Master's degree in CS (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. My CV can be found <a href="https://drive.google.com/file/d/1GQzTl4J9njOl6Vm3wg5x4zBSvlZbX6Zd/view?usp=sharing" target="_blank">here</a>.
 
 
 
@@ -32,9 +32,9 @@ I'm currently in my 2nd year of a Master's degree in CS (2018-2020) at the <a hr
 Siddharth Mitra and Aditya Gopalan<br>
 Work in progress. A short <a href="https://drive.google.com/file/d/19wBuWi9QngLmnpYZhSlKwn1jwpcZ04fV/view?usp=sharing" target="_blank">note</a> on exploiting gaps in multi-armed bandits.
 
- <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a> <a href="https://drive.google.com/file/d/1gFa_DaXDdSvde43lmNGSSWdYLbL6VcLW/view?usp=sharing">[OPT Poster]</a><br>
+ <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
- <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a>.
+ <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a> <a href="https://drive.google.com/file/d/1gFa_DaXDdSvde43lmNGSSWdYLbL6VcLW/view?usp=sharing" target="_blank">[OPT Poster]</a>.
  
 
 ##  also fond of
