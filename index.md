@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I am a student of mathematics and computer science interested in optimization and ML/CS theory. I am particularly fascinated by sequential decision making and enjoy thinking about online prediction and online optimization. I also have a soft spot for physics -- I think it's an all-round really fun subject and also provides tons of intuition.
+I am a student of mathematics and computer science broadly interested in optimization and theoretical computer science. My recent interests surround online optimization and I have been working on designing adaptive algorithms for various online learning probelms. I also have a soft spot for physics -- I think it's an all-round really fun subject and also provides tons of intuition.
 
 I am currently a 2nd year Master's student (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. My CV can be found <a href="https://drive.google.com/file/d/1i03Qum3eqORLzB5NtFFksamOvTZqOlwg/view?usp=sharing" target="_blank">here</a>.
 
