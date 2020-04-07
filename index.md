@@ -13,7 +13,6 @@ I am a student of mathematics and computer science broadly interested in optimiz
 
 I am currently a 2nd year Master's student (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. My CV can be found <a href="https://drive.google.com/file/d/1i03Qum3eqORLzB5NtFFksamOvTZqOlwg/view?usp=sharing" target="_blank">here</a>.
 
-<b><font color="red"> Note for admission committees/professors (9th January, 2020):</font> My Fall 2019 grades are now available. I believe they are crucial to the evaluation of my PhD application. I have updated this information on the application portal wherever possible. For other universities, please drop me an email and I will send them to you.</b>
 
 
 
