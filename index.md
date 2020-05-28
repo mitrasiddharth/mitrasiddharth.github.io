@@ -28,9 +28,6 @@ I am currently a 2nd year Master's student (2018-2020) at the <a href="https://w
 
 ## papers
 
-<b>Exploiting Gaps in Online Learning</b><br>
-Siddharth Mitra and Aditya Gopalan<br>
-Work in progress. A short <a href="https://drive.google.com/file/d/19wBuWi9QngLmnpYZhSlKwn1jwpcZ04fV/view?usp=sharing" target="_blank">note</a> on exploiting gaps in multi-armed bandits.
 
  <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
