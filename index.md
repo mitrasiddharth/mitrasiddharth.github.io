@@ -16,7 +16,7 @@ I am currently a 2nd year Master's student (2018-2020) at the <a href="https://w
 
 
 
-
+<!
 
 ## news & updates
 
@@ -24,6 +24,7 @@ I am currently a 2nd year Master's student (2018-2020) at the <a href="https://w
 * <em>september 2019:</em> I will be giving a <a href="https://www.cmi.ac.in/activities/show-abstract.php?absyear=2019&absref=110&abstype=sem" target="_blank">talk</a> at CMI on adaptivity in online learning.
 * <em>july 2019:</em> I will be attending the <a href="http://math.iisc.ac.in/~ifcam/Summer_School2019.htm" target="_blank">IFCAM summer school</a> on Mathematics for Data Science.
 * <em>january 2019:</em> I will be attending the <a href="http://workshop.tcs.tifr.res.in/learningt/workshop-learning-theory" target="_blank">Workshop on Learning Theory</a>, co-organised by TIFR and MIT. 
+>
 
 ## papers
 
