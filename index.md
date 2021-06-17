@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I am currently a graduate student in the department of Computer Science at Yale where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
+I am currently a graduate student in the department of Computer Science at Yale University where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
 
 I am broadly interested in optimization, theoretical computer science, and machine learning.
 
