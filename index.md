@@ -9,11 +9,11 @@ output:
 
 ## about me
 
-I am a student of mathematics and computer science broadly interested in optimization, machine learning, and theoretical computer science. My recent interests surround online optimization and I have been working on designing adaptive algorithms for various online learning problems. I also have a soft spot for physics -- I think it's an all-round really fun subject and also provides tons of intuition.
+I am currently a graduate student in the department of Computer Science at Yale where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
 
-I am currently a 2nd year Master's student (2018-2020) at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a> (CMI). Prior to this, I was a Math+CS undergrad also at CMI (2015-2018). I spent the 2018-19 academic year as a visiting student at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore, where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>. At CMI, I mostly interact with Professor <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>. My CV can be found <a href="https://drive.google.com/file/d/1i03Qum3eqORLzB5NtFFksamOvTZqOlwg/view?usp=sharing" target="_blank">here</a>.
+I am broadly interested in optimization, theoretical computer science, and machine learning.
 
-In Fall 2020, I will be starting my PhD in CS at Yale.
+Prior to this, I was an undergraduate and masters student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a>, India (while also spending some time at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a> (IISc), Bangalore) where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
 
 
@@ -28,8 +28,11 @@ In Fall 2020, I will be starting my PhD in CS at Yale.
 
 -->
 
-## papers
+## papers and preprints
 
+  <b>Submodular + Concave</b> <a href="https://arxiv.org/abs/2106.04769" target="_blank">[arXiv]</a><br>
+ Siddharth Mitra, Moran Feldman, and Amin Karbasi<br>
+ 
 
  <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
