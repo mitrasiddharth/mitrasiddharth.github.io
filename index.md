@@ -13,7 +13,7 @@ I am currently a graduate student in the department of Computer Science at Yale 
 
 I am broadly interested in optimization, theoretical computer science, and machine learning.
 
-Prior to this, I was an undergraduate and masters student at the <a href="https://www.cmi.ac.in" target="_blank">Chennai Mathematical Institute</a>, India (while also spending some time at the <a href="https://www.iisc.ac.in" target="_blank">Indian Institute of Science</a>, Bangalore) where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
+Prior to this, I was an undergraduate and masters student at the Chennai Mathematical Institute, India (while also spending some time at the Indian Institute of Science, Bangalore) where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
 
 
