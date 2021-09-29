@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I am currently a graduate student in the department of Computer Science at Yale University where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
+I am currently a 2nd year graduate student in the department of Computer Science at Yale University where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
 
 I am broadly interested in optimization, theoretical computer science, and machine learning.
 
@@ -32,11 +32,12 @@ Prior to this, I was an undergraduate and masters student at the Chennai Mathema
 
   <b>Submodular + Concave</b> <a href="https://arxiv.org/abs/2106.04769" target="_blank">[arXiv]</a><br>
  Siddharth Mitra, Moran Feldman, and Amin Karbasi<br>
+ NeurIPS 2021.
  
 
  <b>On Adaptivity in Information-constrained Online Learning</b> <a href="https://arxiv.org/abs/1910.08805" target="_blank">[arXiv]</a><br>
  Siddharth Mitra and Aditya Gopalan<br>
- <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI 2020</a>. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a> <a href="https://drive.google.com/file/d/1gFa_DaXDdSvde43lmNGSSWdYLbL6VcLW/view?usp=sharing" target="_blank">[OPT Poster]</a>.
+ AAAI 2020. Short version at <a href="https://opt-ml.org/" target="_blank">OPT 2019</a> <a href="https://drive.google.com/file/d/1gFa_DaXDdSvde43lmNGSSWdYLbL6VcLW/view?usp=sharing" target="_blank">[OPT Poster]</a>.
  
 <!--
 ##  also fond of
