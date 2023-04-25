@@ -30,6 +30,12 @@ Prior to this, I was an undergraduate and masters student at the Chennai Mathema
 
 ## papers and preprints
 
+
+  <b>Approximate Thompson Sampling with Logarithmic Batches: Bandits and Reinforcement Learning</b><br>
+ (&alpha-&beta) Amin Karbasi, Nikki Kuang, Yian Ma, Siddharth Mitra<br>
+ NeurIPS 2021.
+
+
   <b>Submodular + Concave</b> <a href="https://arxiv.org/abs/2106.04769" target="_blank">[arXiv]</a><br>
  Siddharth Mitra, Moran Feldman, and Amin Karbasi<br>
  NeurIPS 2021.
