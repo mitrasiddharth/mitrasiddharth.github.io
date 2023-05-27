@@ -9,11 +9,11 @@ output:
 
 ## about me
 
-I am currently a 2nd year graduate student in the department of Computer Science at Yale University where I am advised by Professor <a href="http://iid.yale.edu/" target="_blank">Amin Karbasi</a>.
+I'm a 3rd year PhD student in Computer Science at Yale University, where I'm fortunate to be advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
 
-I am broadly interested in optimization, theoretical computer science, and machine learning.
+I'm broadly interested in sampling, variational inference, and optimization.
 
-Prior to this, I was an undergraduate and masters student at the Chennai Mathematical Institute, India (while also spending some time at the Indian Institute of Science, Bangalore) where I worked with Professors <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
+Prior to this, I was an undergraduate and masters student at the Chennai Mathematical Institute, India (while also spending some time at the Indian Institute of Science, Bangalore) where I worked with <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
 
 
