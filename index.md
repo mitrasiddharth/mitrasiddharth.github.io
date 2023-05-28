@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I'm a 3rd year PhD student in Computer Science at Yale University, where I'm advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
+I'm a 3rd year PhD student in Computer Science at Yale University, where I'm fortunate to be advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
 
 I'm broadly interested in sampling, variational inference, and optimization.
 
