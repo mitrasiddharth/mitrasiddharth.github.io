@@ -9,7 +9,7 @@ output:
 
 ## about me
 
-I'm a 3rd year PhD student in Computer Science at Yale University, where I'm fortunate to be advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
+I'm a 4th year PhD student in Computer Science at Yale University, where I'm fortunate to be advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
 
 I'm broadly interested in sampling, variational inference, and optimization.
 
@@ -31,7 +31,12 @@ Prior to this, I was an undergraduate and masters student at the Chennai Mathema
 ## papers and preprints
 
 
-  <b>Approximate Thompson Sampling with Logarithmic Batches: Bandits and Reinforcement Learning</b><br>
+  <b>On Independent Samples Along the Langevin Diffusion and the Unadjusted Langevin Algorithm</b> <a href="https://arxiv.org/abs/2402.17067" target="_blank">[arXiv]</a><br>
+ (α-β) Jiaming Liang, Siddharth Mitra, and Andre Wibisono<br>
+ 
+
+
+  <b>Langevin Thompson Sampling with Logarithmic Communication: Bandits and Reinforcement Learning</b><a href="https://arxiv.org/abs/2306.08803" target="_blank">[arXiv]</a><br>
  (α-β) Amin Karbasi, Nikki Kuang, Yian Ma, and Siddharth Mitra<br>
  ICML 2023.
 
