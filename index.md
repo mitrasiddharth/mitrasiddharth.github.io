@@ -36,7 +36,7 @@ Prior to this, I was an undergraduate and masters student at the Chennai Mathema
  
 
 
-  <b>Langevin Thompson Sampling with Logarithmic Communication: Bandits and Reinforcement Learning</b><a href="https://arxiv.org/abs/2306.08803" target="_blank">[arXiv]</a><br>
+  <b>Langevin Thompson Sampling with Logarithmic Communication: Bandits and Reinforcement Learning</b> <a href="https://arxiv.org/abs/2306.08803" target="_blank">[arXiv]</a><br>
  (α-β) Amin Karbasi, Nikki Kuang, Yian Ma, and Siddharth Mitra<br>
  ICML 2023.
 
