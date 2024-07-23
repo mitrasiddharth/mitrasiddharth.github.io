@@ -11,7 +11,7 @@ output:
 
 I'm a 4th year PhD student in Computer Science at Yale University, where I'm lucky to be advised by <a href="http://www.cs.yale.edu/homes/wibisono/" target="_blank">Andre Wibisono</a>.
 
-I'm broadly interested in sampling and information theory.
+I'm broadly interested in sampling, optimization, and information theory.
 
 Prior to this, I was an undergraduate and masters student at the Chennai Mathematical Institute, India (while also spending some time at the Indian Institute of Science, Bangalore) where I worked with <a href="https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Aditya Gopalan</a>, <a href="https://ece.iisc.ac.in/~htyagi/" target="_blank">Himanshu Tyagi</a>, and <a href="https://www.cmi.ac.in/~kv/" target="_blank">KV Subrahmanyam</a>.
 
